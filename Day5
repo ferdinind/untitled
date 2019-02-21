@@ -1,0 +1,15 @@
+import string
+#设定6个号段
+var1=15366555566;
+var2=15366555566;
+var3=15366555566;
+var4="45461asda464";
+var5=45461265464;
+var6=45461265464;
+#查看号段的类型
+print(type(var1))
+print(type(var2))
+print(type(var3))
+print(type(var4))
+print(type(var5))
+print(type(var6))

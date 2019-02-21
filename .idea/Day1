@@ -1,0 +1,14 @@
+# var1=int(input("请输入班级人数"))
+# var2=input("请输入班级班号")
+# var3=input("请输入班级所学课程")
+# print("班级人数为",var1,"班级班号为",var2,"班级所学课程",var3)
+
+# var=int(input("请输入一个数字获取它的绝对值"))
+# print(abs(var))
+
+vars=int(input("请输入你的分数"))
+print(vars)
+if vars<60:
+    print("不及格")
+else:
+    print("及格")
