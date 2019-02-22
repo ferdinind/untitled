@@ -8,6 +8,7 @@ s=["The column above illustrates apparently",
   "python is wonderful. Python"]
 num=0;
 # 创建遍历数组
+# 创建遍历数组
 for i in range(6):
     num+=s[i].__len__();
     # 获取长度 排序
